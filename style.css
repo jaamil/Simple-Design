@@ -1,0 +1,251 @@
+/* Google fonts  */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Header section start  */
+.header-banner {
+  background-image: url(images/donation1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.banner-text {
+  text-align: center;
+  color: white;
+  padding: 120px;
+}
+.banner-text h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.banner-text p {
+  font-size: 24px;
+}
+.btn-btn {
+  padding: 15px 30px;
+  border-radius: 15px;
+  background-color: #ff5959;
+  color: white;
+  font-size: 20px;
+  border: none;
+}
+/* Header section end  */
+
+/* Donate section start  */
+.Donate-part h2 {
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+.Donate-part p {
+    font-size: 24px;
+    text-align: center;
+  }
+.taka-donate {
+    width: 80%;
+    margin-left: 7%;
+    /* margin-right: 5%; */
+    padding-left: 5%;
+    padding: 20px;
+    box-shadow: 0px 0px 0px 0px grey;
+    border-bottom: 1px solid;
+  }
+  
+.taka {
+    display: flex;
+  }
+  
+.taka-text {
+    width: 20%;
+    margin: 10px;
+    box-shadow: 0px 0px 1px 1px #fcfcfc;
+    padding: 20px;
+    text-align: center;
+    background-color: #eee6e64d;
+  }
+  
+.taka-donate h6 {
+    text-align: center;
+    margin-bottom: 1px;
+    color: gray;
+  }
+.border-color {
+    border: 2px solid orangered;
+    background-color: #f5f0f0;
+  }
+.border-color h1 {
+    color: #ff5959;
+  }
+.btn {
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: #ff5959;
+    color: white;
+    font-size: 15px;
+    border: none;
+    margin: 14px auto;
+    display: flex;
+  }
+  /* Donate section end  */
+
+/* Donate plan section start  */
+.donate-plan h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 80px;
+  }
+  
+#p-tag {
+    font-size: 24px;
+    text-align: center;
+  }
+.donate-support {
+    display: flex;
+    padding: 10px;
+    width: 80%;
+    margin-left: 10%;
+  }
+#donate-box1 {
+    width: 33%;
+    padding: 40px 20px;
+    box-shadow: 0px 0px 0px 0px grey;
+    margin: 12px;
+    border: none;
+    background-color: #EDF5F6;
+  
+  }
+  
+#donate-box2 {
+      width: 33%;
+      padding: 40px 20px;
+      box-shadow: 0px 0px 0px 0px grey;
+      margin: 12px;
+      border: none;
+      background-color: #FFEEEE;
+    }
+  
+#donate-box3{
+      width: 33%;
+      padding: 40px 20px;
+      box-shadow: 0px 0px 0px 0px grey;
+      margin: 12px;
+      border: none;
+      background-color: #FFF4D6;
+    }
+/* Help Children section start  */
+
+.help-children h1 {
+    font-size: 50px;
+    text-align: center;
+  }
+.help-children p {
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 23px;
+  }
+  
+.help-title ul li{
+      text-decoration: underline;
+  }
+.poor-pepole {
+    display: flex;
+  }
+.help-img {
+    width: 50%;
+  }
+  
+.help-img img {
+    width: 80%;
+  }
+.help-img h4 {
+    text-align: justify;
+    font-size: 25px;
+    padding: 5px;
+    margin-top: 0px;
+  }
+.help-img h6 {
+    font-size: 15px;
+  }
+  
+.btn-btn1 {
+    padding: 15px 25px;
+    border-radius: 15px;
+    background-color: #ff5959;
+    color: white;
+    font-size: 15px;
+    border: none;
+    margin-left: 30px;
+  }
+  /* Help children section end*/
+
+/* form section start  */
+.form-text h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+.form-text p{
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.form-part {
+    width: 60%;
+    box-shadow: 0px 0px 0px 0px white;
+    padding: 60px;
+    margin-left: 15%;
+    background-color: #FFF4D6;
+}
+
+
+
+.form-input{
+    text-align: center;
+}
+
+.form-input input{
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    background-color: #D9D9D9;
+    border: none;
+}
+
+.form-input button{
+    width: 15%;
+    padding: 10px;
+    position: relative;
+    margin-left: 305px;
+    background-color: #ff5959;
+    border: none;
+    
+}
+/* form section end */
+
+/* footer section start  */
+footer{
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 40px;
+    margin-top: 80px;
+}
+footer h1{
+    color: #C64749;
+}
+
+footer h1{
+    color: #C64749;
+}
+
+footer h5{
+    color: #82A5C0;
+}
+/* footer section end  */
+
+
